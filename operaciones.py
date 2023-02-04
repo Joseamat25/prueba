@@ -5,3 +5,4 @@ def funcion_suma(a,b):
 
 print(funcion_suma(2,3))
 print('Probando')
+print(funcion_suma(4,5))
