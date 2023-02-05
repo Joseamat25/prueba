@@ -1,5 +1,7 @@
 #Pruebas para git:
 
+from funciones.funciones_modulares import *
+
 def funcion_suma(a,b):
     return a+b
 
@@ -10,3 +12,4 @@ print(funcion_suma(4,5))
 def funcion_resta(a, b):
     return a-b
 
+print(hola())
