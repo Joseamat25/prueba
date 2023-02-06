@@ -1,6 +1,8 @@
 #Pruebas para git:
+#Documentación para nuevos paquetes: https://docs.python.org/3/reference/import.html#regular-packages
 
 from funciones.funciones_modulares import *
+
 
 def funcion_suma(a,b):
     return a+b
